@@ -1,6 +1,7 @@
 # Rebases
 
 this should be in commit one:
-```
-console.log('Hello World!'
+
+```js
+console.log('Hello World!');
 ```
