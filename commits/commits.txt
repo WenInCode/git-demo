@@ -1,6 +1,12 @@
 # Commits
 
+these are the original lines <-- modified
 these are the original lines
 these are the original lines
 these are the original lines
-these are the original lines
+
+this should be in the next commit!
+this should be in the next commit!
+I am not sure this should be in the next commit
+I am not sure this should be in the next commit
+this should be in the next commit!
