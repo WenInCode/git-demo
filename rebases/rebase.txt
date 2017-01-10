@@ -3,5 +3,8 @@
 this should be in commit one:
 
 ```js
+// Some changes that I don't want in my branch anymore
 console.log('Hello World!');
 ```
+
+Some changes that I don't want in my branch anymore
