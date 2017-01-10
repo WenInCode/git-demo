@@ -1,6 +1,11 @@
 # Commits
+this hunk should go in the next commit!
+this hunk should go in the next commit!
 
 these are the original lines
 these are the original lines
 these are the original lines
+I don't think I will use this text.
 these are the original lines
+
+I don't think I will use this text.
