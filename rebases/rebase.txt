@@ -1,1 +1,6 @@
 # Rebases
+
+this should be in commit one:
+```
+console.log('Hello World!'
+```
